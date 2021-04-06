@@ -1,0 +1,37 @@
+.blog {
+	color: black;
+	padding-top: 3px;
+	font-size: 15px;
+	border: 1px solid lightgray;
+	padding: 10px;
+	margin: 10px;
+}
+
+.message {
+	color: black;
+	background: lightgrey;
+	font-size: 20px;
+	border-style: solid;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.menu {
+	background-color: lightgray;
+}
+.menu * {
+	padding: 5px;
+	margin: 5px;
+	display: inline;
+}
+
+table,
+th,
+td {
+	border: 1px solid lightgray;
+	border-collapse: collapse;
+}
+.listed-blog {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid black;
+}
